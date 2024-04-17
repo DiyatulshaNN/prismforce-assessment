@@ -56,15 +56,15 @@ The algorithm finds if Abhimanyu can cross the Chakravyuh keeping in mind the fo
 
 •	If neither condition is met, Abhimanyu cannot proceed, and the function returns false.
 
-6.**	Updating Current Power:**
+**6.	Updating Current Power:**
 
 •	If Abhimanyu battles (either after recharging or directly), cur_p is updated by subtracting the enemy's power (cur_p -= arr[i]).
 
-7.	****Return Result:****
+**7.**	**Return Result:**
 
 •	If Abhimanyu successfully traverses through all circles without getting stuck (return false), the function returns true.
 
-8.	****Main Function:****
+**8.**	**Main Function:**
 
 •	The main function initializes two sets of test cases (arr1, p1, a1, b1 and arr2, p2, a2, b2).
 
